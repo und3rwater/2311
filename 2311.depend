@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1732451215 source:c:\users\slopa\onedrive\Рабочий стол\2311\main.cpp
+	<iostream>
+	<string>
+	"readFromFile.cpp"
+	"writeToFile.cpp"
+	"display.cpp"
+
+1732451231 c:\users\slopa\onedrive\Рабочий стол\2311\readfromfile.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1732451355 c:\users\slopa\onedrive\Рабочий стол\2311\writetofile.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1732451355 c:\users\slopa\onedrive\Рабочий стол\2311\display.cpp
+	<iostream>
+	<vector>
+	<string>
+
